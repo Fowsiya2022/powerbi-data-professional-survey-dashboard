@@ -1,4 +1,3 @@
-# powerbi-data-professional-survey-dashboard
 # Data Professional Survey Dashboard (Power BI)
 
 ## Overview
